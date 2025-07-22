@@ -1,10 +1,15 @@
 # AUTOMATED_REPORT_GENERATION
 
 COMPANY : CODTECH IT SOLUTIONS
+
 NAME : KASTURI DAYANAND GHADI
+
 INTERN ID : 
+
 DOMAIN : PYTHON PROGRAMMING
+
 DURATON : 4 WEEKS
+
 MENTOR : NEELA SANTHOSH
 
 DESCRIPTION : 
@@ -21,4 +26,5 @@ The first step was data ingestion using pandas. I tested the script on a sample 
 
 OUTPUT : 
 
+![Image](https://github.com/user-attachments/assets/abcafd0c-7da7-433f-8f9f-a25fdf49996c)
 
